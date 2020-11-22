@@ -1,12 +1,11 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: Society of Physics Students
-  role: Secretary
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
-
+#- organization: Society of Physics Students
+#  role: Secretary
+#  year: 2014 &mdash; 2015
+#  url:
+#  summary:
 
 #- organization: Yale Amnesty International
 #  role: Communications coordinator
