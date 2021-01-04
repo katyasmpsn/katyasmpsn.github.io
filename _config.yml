@@ -24,12 +24,12 @@ resume_header_contact_info:     "katya42@uw.edu"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p> Hello! I'm a graduate student at the University of Washington studying computational linguistics; interested in the intersection of narrative content and knowledge graphs.
-  In my spare time I practice yoga (RYT 200), binge-read fiction, and chase after my two cats. \n
+  In my spare time I practice yoga (RYT 200), binge-read fiction, and chase after my two cats.  </p>
 
-Previously, I worked at Netflix and Twitter as an analytics engineer (think `jack of all trades` data scientist) and studied
-physics at Cal.  \n
+<p> Previously, I worked at Netflix and Twitter as an analytics engineer (think `jack of all trades` data scientist) and studied
+physics at Cal.  <\p>
 
-I am committed to being part of scientific communities where ideas can be
+<p> I am committed to being part of scientific communities where ideas can be
     shared and the people who share them, respected. Here are some articles that I'm thinking about regarding ethics
     in AI: Ethics in AI links here.
        </p>"
