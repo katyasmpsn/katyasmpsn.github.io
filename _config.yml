@@ -25,21 +25,7 @@ resume_header_contact_info:     "katya42@uw.edu"
 display_header_contact_info:    "false"
 
 resume_header_intro: "
-<p> Hello! I'm a graduate student at the University of Washington studying computational linguistics;
-    interested in the intersection of narrative content and knowledge graphs.
-  In my spare time I practice yoga (RYT 200), binge-read fiction, and chase after my two cats.  </p>
 
-<p> Previously, I worked at Netflix and Twitter as an analytics engineer and studied
-physics at Cal.  </p>
-
-<p> I am committed to being part of scientific communities where ideas can be
-    shared, and the people who share them, respected. Similarly, I believe models should be evaluated for bias and possible impact.
-    Here are some articles that I'm thinking about regarding the societal impact of ethics in AI (h/t to EB
-    for that phrasing!):
-    : <a href="https://www.technologyreview.com/2020/12/10/1013617/racism-data-science-artificial-intelligence-ai-opinion/
-">1</a>
-
-</p>
 
 
 "
