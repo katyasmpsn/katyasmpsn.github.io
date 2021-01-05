@@ -24,19 +24,21 @@ resume_contact_address:         ""
 resume_header_contact_info:     "katya42@uw.edu"
 display_header_contact_info:    "false"
 
-resume_header_intro: "
+resume_header_intro:
 <p> Hello! I'm a graduate student at the University of Washington studying computational linguistics;
     interested in the intersection of narrative content and knowledge graphs.
   In my spare time I practice yoga (RYT 200), binge-read fiction, and chase after my two cats.  </p>
 
 <p> Previously, I worked at Netflix and Twitter as an analytics engineer and studied
-physics at Cal.  </p>
+physics at Cal. <a href="/images/myw3schoolsimage.jpg" download>
+                       <img src="/images/myw3schoolsimage.jpg" alt="W3Schools">
+                       </a>  </p>
 
 <p> I am committed to being part of scientific communities where ideas can be
     shared, and the people who share them, respected.
     Similarly, I believe models should be evaluated for bias and possible impact.
 </p>
-"
+
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -46,14 +48,14 @@ resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
-resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
-resume_section_interests:       true
+#resume_section_experience:      true
+#resume_section_education:       true
+#resume_section_projects:        true
+#resume_section_skills:          true
+#resume_section_recognition:     true
+#resume_section_links:           true
+#resume_section_associations:    true
+#resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
@@ -64,7 +66,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/katya-simpson-1a68a473"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://katyasimpson.com"
+#  resume_website_url:           "http://katyasimpson.com"
 #  resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
