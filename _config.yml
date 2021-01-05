@@ -49,14 +49,14 @@ resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
-resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
-resume_section_interests:       true
+#resume_section_experience:      true
+#resume_section_education:       true
+#resume_section_projects:        true
+#resume_section_skills:          true
+#resume_section_recognition:     true
+#resume_section_links:           true
+#resume_section_associations:    true
+#resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
@@ -67,7 +67,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/katya-simpson-1a68a473"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://katyasimpson.com"
+#  resume_website_url:           "http://katyasimpson.com"
 #  resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
