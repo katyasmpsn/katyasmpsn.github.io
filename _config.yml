@@ -1,3 +1,4 @@
+
 # Site settings
 title: "Katya's Homepage"
 description: "The real kat in the hat"
@@ -5,8 +6,8 @@ description: "The real kat in the hat"
 # Build settings
 markdown: kramdown
 sass:
-sass_dir: _sass
-style: compressed
+  sass_dir: _sass
+  style: compressed
 
 # Resume settings
 resume_avatar:                  "true"
@@ -36,9 +37,11 @@ physics at Cal.  </p>
     Here are some articles that I'm thinking about regarding the societal impact of ethics in AI (h/t to EB
     for that phrasing!):
     : <a href="https://www.technologyreview.com/2020/12/10/1013617/racism-data-science-artificial-intelligence-ai-opinion/
-">here</a>
+">1</a>
 
 </p>
+
+
 "
 
 # use "yes" to display the email contact button,
@@ -49,14 +52,14 @@ resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
-#resume_section_experience:      true
-#resume_section_education:       true
-#resume_section_projects:        true
-#resume_section_skills:          true
-#resume_section_recognition:     true
-#resume_section_links:           true
-#resume_section_associations:    true
-#resume_section_interests:       true
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+resume_section_recognition:     true
+resume_section_links:           true
+resume_section_associations:    true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
@@ -67,7 +70,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/katya-simpson-1a68a473"
   # resume_instagram_url:         "insert your Instagram URL here"
-#  resume_website_url:           "http://katyasimpson.com"
+  resume_website_url:           "http://katyasimpson.com"
 #  resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
