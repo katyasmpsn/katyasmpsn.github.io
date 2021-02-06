@@ -12,7 +12,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Katya Simpson"
-resume_title:                   "NLP Graduate Student & Data Scientist "
+resume_title:                   "Page under construction! NLP Graduate Student & Data Scientist "
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "katya42@uw.edu"
